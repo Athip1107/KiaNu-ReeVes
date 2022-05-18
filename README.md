@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">👋 Hello Im KiaN</h1>
+<br />
+<br />
+<p align="center">🏙 I live in Tehran, Iran</p>
+<br />
+<br />
 
-<!--
-**KiaNu-ReeVes/KiaNu-ReeVes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=KiaNu-ReeVes&label=Profile%20views&color=c6d2d2&style=for-the-badge&" alt="KiaN" />
+</div>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">My Skills 💻</h3>
+<div align="center">
+<img  alt="Lua" title="Lua"  src="http://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=FFFFFF" />
+<img  alt="HTML" title="HTML"  src="http://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML&logoColor=FFFFFF" />
+<img alt="CSS" title="CSS"  src="http://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS&logoColor=FFFFFF" />
+<img alt="JS" title="JS"  src="https://img.shields.io/badge/-JS-1572B6?style=flat-square&logo=JS&logoColor=FFFFFF" />
+</div>
+<br />
+
+<h3 align="center">Github Stats 🧭</h3>
+<div align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theMani-kh&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
+  
+<br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=theMani-kh&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
+<br />
+</div>
+<br />
+
+<h3 align="center">Connect with me 📩</h3>
+<div align="center">
+<a href="https://github.com/theMani-kh">
+<img align="center" alt="theMani-kh | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="https://discord.gg/zQgx3R7GAf">
+<img align="center" alt="theMani-kh | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
+</a>
+</div>
+
+
+[github]: https://github.com/theMani-kh
+[discord]: https://discord.gg/zQgx3R7GAf
