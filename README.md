@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=KiaNu-ReeVes&label=Profile%20views&color=black&style=for-the-badge&" alt="KiaN" />
+<img src="https://komarev.com/ghpvc/?username=KiaNu-ReeVes&label=Profile%20views&color=3D424A&style=for-the-badge&" alt="KiaN" />
 </div>
 
 <br />
