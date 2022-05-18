@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello Im KiaN</h1>
 <br />
 <br />
-<p align="center">🏙 I live in Tehran, Iran</p>
+<p align="center"><b>🏙 I live in Tehran, Iran</b></p>
 <br />
 <br />
 
@@ -38,11 +38,11 @@
 <a href="https://github.com/KiaNu-ReeVes">
 <img align="center" alt="KiaNu-ReeVes | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
 </a>
-<a href="https://discord.gg/zQgx3R7GAf">
-<img align="center" alt="KiaNu-ReeVes | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
+<a href="https://discord.gg/jHtbUUVHzd">
+<img align="center" alt="KiaNu-ReeVes | Discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
 </a>
 </div>
 
 
 [github]: https://github.com/KiaNu-ReeVes
-[discord]: https://discord.gg/zQgx3R7GAf
+[discord]: https://discord.gg/jHtbUUVHzd
