@@ -58,7 +58,7 @@
 
 <h3 align="center">Github Stats 🧭</h3>
 <div align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiaNu-ReeVes&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiaNu-ReeVes&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4"/>
   <br />
 
 ![github
@@ -84,7 +84,11 @@
       src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF"
     />
   </a>
+<br>
+<br>
+<br>
+
+[Github]: https://github.com/KiaNu-ReeVes [Discord]:
+https://discord.gg/jHtbUUVHzd
 </div>
 
-[github]: https://github.com/KiaNu-ReeVes [discord]:
-https://discord.gg/jHtbUUVHzd
