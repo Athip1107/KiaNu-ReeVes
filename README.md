@@ -58,14 +58,13 @@
 
 <h3 align="center">Github Stats 🧭</h3>
 <div align="center">
-  ![Most Used
-  Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiaNu-ReeVes&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
-
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiaNu-ReeVes&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
   <br />
 
-  ![github
+![github
   stats](https://github-readme-stats.vercel.app/api?username=KiaNu-ReeVes&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
-  <br />
+<br />
+
 </div>
 <br />
 
