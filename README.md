@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello Im KiaN</h1>
+<h1 align="center">👋 Hello Im Athip</h1>
 <br />
 <br />
 <p align="center"><b>🏙 I live in Tehran, Iran</b></p>
@@ -33,26 +33,6 @@
     alt="NodeJs"
     src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"
   />
-  <img
-    alt="NpmJs"
-    src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"
-  />
-  <img
-    alt="MongoDB"
-    src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"
-  />
-  <img
-    alt="React Native"
-    src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"
-  />
-  <img
-    alt="React"
-    src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"
-  />
-  <img
-    alt="React Native"
-    src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"
-  />
 </div>
 <br />
 
@@ -70,14 +50,14 @@
 
 <h3 align="center">Connect with me 📩</h3>
 <div align="center">
-  <a href="https://github.com/KiaNu-ReeVes">
+  <a href="https://github.com/Athip1107">
     <img
       align="center"
       alt="KiaNu-ReeVes | Github"
       src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF"
     />
   </a>
-  <a href="https://discord.gg/jHtbUUVHzd">
+  <a href="https://discord.gg/">
     <img
       align="center"
       alt="KiaNu-ReeVes | Discord"
@@ -87,8 +67,4 @@
 <br>
 <br>
 <br>
-
-[Github]: https://github.com/KiaNu-ReeVes [Discord]:
-https://discord.gg/jHtbUUVHzd
-</div>
 
